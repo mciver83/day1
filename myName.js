@@ -1,1 +1,2 @@
-var name = 'Mark McIver';
+var name = 'Mark Andrew McIver';
+var middleName = "Andrew";
